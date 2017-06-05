@@ -8,7 +8,7 @@ This is a aggregation of empirical data on numerous technologies' historical per
 
 This is data that I have aggregated and processed from data files that the authors shared with me. Academics, please cite those papers when using data originally published there.
 
-The data should not be taken as perfect; there are undoubtedly measurement errors, reporting errors, conceptual errors and errors of ommission. 
+The data should not be taken as perfect; there are undoubtedly measurement errors, reporting errors, conceptual errors, and errors of ommission. 
 
 [This Ipython Notebook](src/Original_Technology_Time_Series_Processing.ipynb) brings together the data from their original sources, adds some metadata, and visualizes the time series.
 
