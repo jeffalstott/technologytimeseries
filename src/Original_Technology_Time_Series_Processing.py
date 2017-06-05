@@ -97,6 +97,8 @@ time_series = time_series.rename(columns={'AC_electricity_transmission_powered_d
 
 # In[8]:
 
+### "Questionable" here means "Jeff is not sold that the underlying data reports what we think it means, which could
+### include very murky provenance on the data or the performance dimesion seems ill-defined.
 ### Definitely up for debate and could be changed in the future
 time_series_metadata.loc['Automotive (US)','Type'] = 'Performance_Questionable'
 time_series_metadata.loc['electrical_info_transmission_kbps_per_$','Type'] = 'Price_Questionable'
