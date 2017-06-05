@@ -6,7 +6,7 @@ This is a aggregation of empirical data on numerous technologies' historical per
 
 - C.L. Magee, S. Basnet, J.L. Funk and C.L. Benson. "Quantitative empirical trends in technical performance" Technological Forecasting and Social Change, Volume 104, Pages 237–246 (March 2016) [[journal](https://doi.org/10.1016/j.techfore.2015.12.011), [MIT DSpace](https://dspace.mit.edu/handle/1721.1/103015)]
 
-This is data that I have aggregated and processed from data files that the authors shared with me. 
+This is data that I have aggregated and processed from data files that the authors shared with me. Academics, please cite those papers when using data originally published there.
 
 The data should not be taken as perfect; there are undoubtedly measurement errors, reporting errors, errors of ommission, and conceptual errors. 
 
