@@ -1,6 +1,6 @@
 # technologytimeseries
 
-This is a aggregation of empirical data on numerous technologies' historical performances and prices, as reported in two published papers:
+This is an aggregation of empirical data on numerous technologies' historical performances and prices, as reported in two published papers:
 
 - J. D. Farmer and F. Lafond. "How predictable is technological progress?" Research Policy, Volume 45, Issue 3, Pages 647-665 (April 2016) [[journal](https://doi.org/10.1016/j.respol.2015.11.001), [arXiv](https://arxiv.org/abs/1502.05274)] (much of the data originates from the [Performance Curve Database](http://pcdb.santafe.edu/))
 
