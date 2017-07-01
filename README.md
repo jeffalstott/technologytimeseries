@@ -13,5 +13,5 @@ The data should not be taken as perfect; there are undoubtedly measurement error
 [This Ipython Notebook](src/Original_Technology_Time_Series_Processing.ipynb) brings together the data from their original sources, adds some metadata, and visualizes the time series.
 
 [data/time_series.csv](data/time_series.csv) is the aggregated data.
-[data/time_series.csv](data/time_series_metadata.csv) is a table of metadata on each time series.
+[data/time_series_metadata.csv](data/time_series_metadata.csv) is a table of metadata on each time series.
 
